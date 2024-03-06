@@ -23,14 +23,12 @@ Beyond its aesthetic appeal, the Lorenz Attractor has practical applications in 
 ## Code
 
 Explore the code used to generate visualizations of the Lorenz Attractor. The code is written in Python and utilizes libraries such as matplotlib and numpy.
-<br/>
 
 ### Requirements
 
 - Python 3.x
 - Matplotlib
 - NumPy
-<br/>
 
 ### Usage
 
@@ -45,7 +43,6 @@ Explore the code used to generate visualizations of the Lorenz Attractor. The co
     ```
 
 6. The script will generate a 3D plot of the Lorenz attractor and display it in a new window.
-<br/>
 
 ### Customization
 
