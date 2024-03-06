@@ -30,6 +30,7 @@ Explore the code used to generate visualizations of the Lorenz Attractor. The co
 - Python 3.x
 - Matplotlib
 - NumPy
+<br/>
 
 ### Usage
 
@@ -44,6 +45,7 @@ Explore the code used to generate visualizations of the Lorenz Attractor. The co
     ```
 
 6. The script will generate a 3D plot of the Lorenz attractor and display it in a new window.
+<br/>
 
 ### Customization
 
