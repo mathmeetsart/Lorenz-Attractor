@@ -66,4 +66,4 @@ For questions, feedback, or collaboration opportunities, feel free to reach out 
 
 ---
 
-This repository is a subrepository of [Math Meets Art](https://www.instagram.com/art_meets_math/), which is aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
+This repository is a subrepository of [Math Meets Art](https://github.com/mathmeetsart/Math-Meets-Art), which is aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
