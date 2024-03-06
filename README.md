@@ -62,11 +62,9 @@ To customize the appearance of the plot, you can modify the plotting section in 
 
 ## Sample Images
 
-Below are some sample images generated using the code in this repository:
+Below is a sample image generated using the code in this repository:
 
-1. ![Image 1](image1.png)
-2. ![Image 2](image2.png)
-3. ![Image 3](image3.png)
+![Lorenz Attractor](![image](https://github.com/mathmeetsart/Lorenz-Attractor/assets/157393083/3c72ac31-d819-4583-b280-e074194cdb23)
 
 Explore the code, create your own visualizations, and let the beauty of the Lorenz Attractor inspire your artistic endeavors!
 <br/><br/><br/>
