@@ -26,7 +26,7 @@ Explore the code used to generate visualizations of the Lorenz Attractor. The co
 
 ### Requirements
 
-- Python 3.x
+- Python 3.12
 - Matplotlib
 - NumPy
 
