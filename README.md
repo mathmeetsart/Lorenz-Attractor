@@ -1,24 +1,24 @@
 # Lorenz Attractor
 
 Welcome to the Lorenz Attractor repository! Explore the mesmerizing world of chaotic systems and artistic visualization.
-<br/><br/><br/>
+<br/><br/>
 
 ## Description
 
 The Lorenz Attractor is a set of chaotic solutions to a system of ordinary differential equations. It was first studied by Edward Lorenz in the 1960s as a simplified model of atmospheric convection. Despite its simplicity, the Lorenz Attractor exhibits complex behavior known as deterministic chaos.
 
 For more information, you can refer to the [Wikipedia page](https://en.wikipedia.org/wiki/Lorenz_system).
-<br/><br/><br/>
+<br/><br/>
 
 ## Visual Appeal and Artistic Representation
 
 The intricate patterns and unpredictable trajectories of the Lorenz Attractor make it visually captivating. Artists and mathematicians alike are drawn to its chaotic nature, using it as inspiration for various forms of artistic expression, including digital art and sculptures.
-<br/><br/><br/>
+<br/><br/>
 
 ## Applications
 
 Beyond its aesthetic appeal, the Lorenz Attractor has practical applications in various fields, including weather forecasting, fluid dynamics, and cryptography. Its chaotic behavior makes it valuable for studying complex systems and phenomena.
-<br/><br/><br/>
+<br/><br/>
 
 ## Code
 
@@ -58,16 +58,16 @@ You can customize the behavior of the attractor by modifying the parameters and 
 You can also adjust the step size (`dt`) and number of steps (`num_steps`) in the simulation loop to change the resolution and duration of the simulation.
 
 To customize the appearance of the plot, you can modify the plotting section in the script. For example, you can change the color and thickness of the lines, set the background color, or save the plot as an image file.
-<br/><br/><br/>
+<br/><br/>
 
 ## Sample Images
 
 Below is a sample image generated using the code in this repository:
 
-![Lorenz Attractor](![image](https://github.com/mathmeetsart/Lorenz-Attractor/assets/157393083/3c72ac31-d819-4583-b280-e074194cdb23)
+![Lorenz Attractor](https://github.com/mathmeetsart/Lorenz-Attractor/assets/157393083/3c72ac31-d819-4583-b280-e074194cdb23)
 
 Explore the code, create your own visualizations, and let the beauty of the Lorenz Attractor inspire your artistic endeavors!
-<br/><br/><br/>
+<br/><br/>
 
 ## Contribution Guidelines
 
@@ -77,7 +77,7 @@ Contributions to this project are welcome! If you would like to contribute, plea
 - Make your changes
 - Test your changes thoroughly
 - Submit a pull request
-<br/><br/><br/>
+<br/><br/>
 
 ## Contact Information
 
